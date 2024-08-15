@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>281710856003-punjatv9ftkdc68bvetsmcvcg3t9uhbt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.281710856003-punjatv9ftkdc68bvetsmcvcg3t9uhbt</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>281710856003-3pphqa1jghckq44gikeupdos199m3at2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBj1rXkOurw7_hsFCHH0Q1K1ce9cD5L0U4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>281710856003</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ca.buzlinpartner.ca</string>
+	<key>PROJECT_ID</key>
+	<string>buzlinholding</string>
+	<key>STORAGE_BUCKET</key>
+	<string>buzlinholding.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:281710856003:ios:042a31b173163d9d6451f6</string>
+</dict>
+</plist>
